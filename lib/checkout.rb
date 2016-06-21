@@ -1,5 +1,4 @@
 require "checkout/version"
-
-module Checkout
-  # Your code goes here...
-end
+require "checkout/basket"
+require "checkout/ten_percent"
+require "checkout/two_or_more"
